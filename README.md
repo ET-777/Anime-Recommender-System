@@ -1,7 +1,7 @@
 Anime Recommendation Model
 -----------------------
 
-Deep network for recommending a new or existing user a list of anime to watch based on their preferences and ratings. This model uses feature engineering and content based filtering method to make recommendations. The datasets are of thousands of anime and millions of ratings, which were retrieved from myanimelist.net. Dataset is here. [here](https://www.kaggle.com/datasets/hernan4444/anime-recommendation-database-2020). You can see the data processing, model, code, and full explanations in the `AnimeRecommender.ipynb` notebook above.
+Deep network for recommending a new or existing user a list of anime to watch based on their preferences and ratings. This model uses feature engineering and content based filtering method to make recommendations. The datasets are of thousands of anime and millions of ratings, which were retrieved from myanimelist.net. Dataset is [here](https://www.kaggle.com/datasets/hernan4444/anime-recommendation-database-2020). You can see the data processing, model, code, and full explanations in the `AnimeRecommender.ipynb` notebook above.
 
 Quick Overview
 ----------------------
