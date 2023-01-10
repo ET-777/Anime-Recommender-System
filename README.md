@@ -69,7 +69,7 @@ Model
 Results
 ----------------------
 
-The model was trained for 10 epoch with a MeanSquaredError loss function and a leraning rate of 0.01 with adam optimizer. Data was also split by 30% for testing.
+The model was trained for 10 epoch with a MeanSquaredError loss function and a learning rate of 0.01 with adam optimizer. Data was also split by 30% for testing.
 <br /><br />
  Data | Loss 
 ------------ | -------------
