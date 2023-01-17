@@ -6,7 +6,7 @@ Deep network for recommending a new or existing user a list of anime to watch ba
 Quick Overview
 ----------------------
 
-The original datasets consist of one anime dataset with information about the ahows, and a ratings dataset with ratings by users for multiple shows. The anime dataset is over 17k items and the ratings dataset is over 57 million items. I did not have enough RAM to process multiple 57 million dataframes, so I reduced it to 15 million.
+The original datasets consist of one anime dataset with information about the shows, and a ratings dataset with ratings by users for multiple shows. The anime dataset is over 17k items and the ratings dataset is over 57 million items. I did not have enough RAM to process multiple 57 million dataframes, so I reduced it to 15 million.
 
 <p align="center">
 <br />
